@@ -1,0 +1,5 @@
+MySQL database
+make depednincy file for this project
+learn how to use environment variables
+creating forms w/ Django
+using search with Django
